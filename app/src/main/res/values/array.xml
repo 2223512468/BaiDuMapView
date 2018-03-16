@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="line_item">
+        <item>定位</item>
+        <item>指南针</item>
+        <item>POI检索</item>
+        <item>公交路线查询</item>
+        <item>路线规划</item>
+
+    </string-array>
+
+</resources>
